@@ -31,7 +31,8 @@ const styles = StyleSheet.create({
     width: 85,
     justifyContent: 'center',
     alignItems: 'center'
-  },
+  }
+  
 })
 
 export default Slidder
